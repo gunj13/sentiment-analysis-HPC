@@ -5,13 +5,14 @@ environments.
 
 Results:
 
-● GPU: 92.999 s (around 1.5 minutes)
+● GPU (NVIDIA Pascal P100 16GB GPU): 92.999 s (around 1.5 minutes)
 
-● Cluster: 1155.50 s (around 19 min)
+● Cluster (Dual Intel Xeon E5-2670 2.60GHz processors, 32GB RAM
+): 1155.50 s (around 19 min)
 
-● Colab: 9673.45 s (161 min)
+● Google Colab: 9673.45 s (161 min)
 
-● Colab GPU: 140.006 (around 2 min 20 secs)
+● Google Colab GPU: 140.006 (around 2 min 20 secs)
 
 ● Mac M3 Max: 112.59 s (around 2 min)
 
