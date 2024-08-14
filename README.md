@@ -4,6 +4,7 @@ different platforms and comparing the efficiency of various training
 environments.
 
 Results:
+
 ● GPU: 92.999 s (around 1.5 minutes)
 
 ● Cluster: 1155.50 s (around 19 min)
